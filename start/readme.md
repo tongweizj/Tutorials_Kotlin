@@ -14,4 +14,8 @@
 - network， 
   - retrofit2
   - coroutine 协程
+  - HttpURLConnection, 
+  - OkHttp, 
+  - Volley
+
 https://api.open-meteo.com/v1/forecast?latitude=43.87252202732821&longitude=-79.24171580335263&current=temperature_2m,wind_speed_10m
